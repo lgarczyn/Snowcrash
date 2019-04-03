@@ -31,7 +31,7 @@ done
 #woupa2yuojeeaaed06riuj63c
 
 # escalate power level
-su level10
+su flag10
 woupa2yuojeeaaed06riuj63c
 # get next flag
 getflag # > feulo4b72j7edeahuete3no7c

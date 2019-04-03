@@ -6,7 +6,7 @@
 # then we run it
 /tmp/a.out `cat token` # > f3iji1ju5yuevaus41q1afiuq
 # escalate power level
-su level09
+su flag09
 f3iji1ju5yuevaus41q1afiuq
 # get next flag
 getflag # > s5cAJpM8ev6XHw998pRWG728z

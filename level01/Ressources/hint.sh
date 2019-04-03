@@ -7,7 +7,7 @@ cd john/run
 make -j4
 ./john ../../passwd # > abcdefg
 # escalate power level
-su level01
+su flag01
 abcdefg
 # get next flag
 getflag # > f2av5il02puano7naaf6adaaf
